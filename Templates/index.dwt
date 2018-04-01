@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Home - Lowell Portfolio</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="../style.css">
+<link href="https://fonts.googleapis.com/css?family=Play" rel="stylesheet">
+ 
+<link rel="stylesheet" href="../../batacan_portfolio/Templates/flexslider.css" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+ 
+ <script type="text/javascript" charset="utf-8">
+  $(window).load(function() {
+    $('.flexslider').flexslider();
+  });
+</script>
+  
+  <!-- Place in the <head>, after the three links -->
+<script type="text/javascript" charset="utf-8">
+  $(window).load(function() {
+    $('.flexslider').flexslider();
+  });
+</script>
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="wrapper"><!-- TemplateBeginEditable name="headernav" -->
+	  <div id="header"> <img src="../images/LowellLogo.png" width="200" height="200" alt=""/>
+	    <div id ="headerImg"> <a href="https://www.linkedin.com/in/lowell-batacan-6b1ab312b/" target="_blank"><img src="../images/linkedinLogo2.png" width="78" height="78" alt="LinkedIn"/></a> LinkedIn </div>
+	    <div id ="headerImg"> <a href="https://www.facebook.com/lowell.batacan" target="_blank"><img src="../images/fbLogo.png" width="76" height="76" alt=""/></a> Facebook </div>
+	    <div id ="headerImg"> <a href="https://twitter.com/LowDataMan" target="_blank"><img src="../images/twitter.png" width="75" height="75" alt=""/></a> Twitter </div>
+    </div>
+      <div id="navbar">
+        <div id="navbarLink"> Home </div>
+        <div id="navbarLink"> Portfolio </div>
+        <div id="navbarLink"> Games </div>
+		  <div id="navbarLink"> About </div>
+        <div id="navbarLink"> Resume </div>
+      </div>
+      <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="content" -->
+      <div id="content"></div>
+      <!-- TemplateEndEditable --></div>
+</body>
+</html>
