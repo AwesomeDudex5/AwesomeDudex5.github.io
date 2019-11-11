@@ -44,8 +44,8 @@ a {
 }
 #navbarLink {
 	display: inline-block;
-	margin-left: 40px;
-    margin-right:40px;
+	margin-left: 20px;
+    margin-right:20px;
 	background-size: cover;
 }
 
@@ -183,6 +183,47 @@ a {
     display:inline-block;
 }
 
+#codeContent
+{
+	padding-top:20px;
+    padding-left:10px;
+	padding-right: 10px;
+    padding-bottom:20px;
+
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	height: auto;
+	background-color: rgba(0,6,90,0.5);
+}
+
+#codeTile
+{
+	height:330px;
+	width: 330px;
+	background-color:#595959;
+	display:inline-block;
+    margin:10px;
+	vertical-align:top;
+	
+}
+
+#codeTile p
+{
+	font-size: 30px;
+	margin-bottom: 5px;
+}
+
+#codeTile a
+{
+	font-size: 25px;
+}
+
+#codeTileText
+{
+	font-size: 18px;
+}
+
 #resumePic{
     width:800px;
     padding:30px;
@@ -210,6 +251,3 @@ a {
     margin-left:auto;
     margin-right:auto;
 }
-
-
-
